@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Patika_CSharp_Odevler_1_2_3_4_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
