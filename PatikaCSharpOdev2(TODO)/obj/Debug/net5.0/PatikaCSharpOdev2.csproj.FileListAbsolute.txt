@@ -1,0 +1,16 @@
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.csproj.AssemblyReference.cache
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.AssemblyInfoInputs.cache
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.AssemblyInfo.cs
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.csproj.CoreCompileInputs.cache
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\bin\Debug\net5.0\PatikaCSharpOdev2.exe
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\bin\Debug\net5.0\PatikaCSharpOdev2.deps.json
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\bin\Debug\net5.0\PatikaCSharpOdev2.runtimeconfig.json
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\bin\Debug\net5.0\PatikaCSharpOdev2.runtimeconfig.dev.json
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\bin\Debug\net5.0\PatikaCSharpOdev2.dll
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\bin\Debug\net5.0\PatikaCSharpOdev2.pdb
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.dll
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\refint\PatikaCSharpOdev2.dll
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.pdb
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\PatikaCSharpOdev2.genruntimeconfig.cache
+C:\Users\merta\Desktop\PATİKA\PatikaCSharpOdev2\obj\Debug\net5.0\ref\PatikaCSharpOdev2.dll
